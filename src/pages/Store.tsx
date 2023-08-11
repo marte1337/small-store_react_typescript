@@ -3,8 +3,6 @@ import storeItems from "../data/items.json";
 import { StoreItem } from "../components/StoreItem";
 
 export function Store() {
-  console.log(storeItems);
-
   return (
     <>
       <h1>Store</h1>
